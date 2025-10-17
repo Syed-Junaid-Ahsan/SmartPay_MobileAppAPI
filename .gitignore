@@ -1,0 +1,35 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code or Visual Studio settings
+.vs/
+.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# Environment and settings files
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Test.json
+
+# Optional: ignore secrets and keys
+*.secret.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup and publish folders
+publish/
+wwwroot/
+
