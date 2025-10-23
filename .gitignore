@@ -33,3 +33,8 @@ Thumbs.db
 publish/
 wwwroot/
 
+# Ignore all Visual Studio publish and user settings
+*.pubxml
+*.pubxml.user
+*.csproj.user
+.vs/
